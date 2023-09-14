@@ -1,9 +1,5 @@
-./brsmv/accounts/migrations/*
-./brsmv/blog/migrations/*
-./brsmv/college/migrations/*
-./brsmv/course/migrations/*.py
-./brsmv/faculty/migrations/*
-./brsmv/fees_Collection/migrations/*
-./brsmv/student/migrations/*
+**/migrations/**
+**/env/**
+**/venv/**
 
 **.pyc
